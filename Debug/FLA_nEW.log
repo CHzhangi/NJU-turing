@@ -1,0 +1,9 @@
+﻿  simulator.cpp
+C:\Users\adminis\Desktop\ctest\FLA_nEW\FLA_nEW\simulator.cpp(14,23): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\adminis\Desktop\ctest\FLA_nEW\FLA_nEW\simulator.cpp(17,27): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\adminis\Desktop\ctest\FLA_nEW\FLA_nEW\simulator.cpp(83,35): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\adminis\Desktop\ctest\FLA_nEW\FLA_nEW\simulator.cpp(129,27): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\adminis\Desktop\ctest\FLA_nEW\FLA_nEW\simulator.cpp(147,27): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\adminis\Desktop\ctest\FLA_nEW\FLA_nEW\simulator.cpp(169,13): warning C4101: “key”: 未引用的局部变量
+C:\Users\adminis\Desktop\ctest\FLA_nEW\FLA_nEW\simulator.cpp(11): warning C4715: “tme::find”: 不是所有的控件路径都返回值
+  FLA_nEW.vcxproj -> C:\Users\adminis\Desktop\ctest\FLA_nEW\Debug\FLA_nEW.exe
